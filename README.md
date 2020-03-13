@@ -2,7 +2,7 @@
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/vpinheiro38/Chatbot-To-Do-App/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/react-native.svg)](http://badge.fury.io/js/react-native)
 
-A React Native app that implements a simple chatbot to manage a to-do list. (Developed to Android)
+A **React Native** app that implements a simple chatbot to manage a to-do list. (Developed to Android)
 
 <img src="https://github.com/vpinheiro38/Chatbot-To-Do-App/blob/master/images/Chat.jpeg" width="250" /> <img src="https://github.com/vpinheiro38/Chatbot-To-Do-App/blob/master/images/TaskList.jpeg" width="250" />
 
@@ -22,7 +22,8 @@ react-native run-android
 - Conversation for adding a task;
 - Delete a task;
 - Calendar to view the tasks added;
-- For now, only portuguese is supported.
+- For now, only portuguese is supported;
+- The data is stored offline with **Realm Database** instead of SQLite.
 
 ## To-Do
 There is a lot of things to improve the app. For example:
