@@ -23,7 +23,6 @@ const LoadingScreen = (props) => {
 
     return (
     <View style={styles.background}>
-        <Text style={styles.textTitle}>Frederico</Text>
         <ActivityIndicator size='large' color={colors.white}/>
     </View>
 )};
