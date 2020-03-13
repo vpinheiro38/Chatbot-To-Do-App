@@ -1,0 +1,48 @@
+{
+  "name": "AssistentProj",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^2.2.2",
+    "@react-native-community/masked-view": "^0.1.6",
+    "@react-navigation/material-top-tabs": "^5.1.0",
+    "@react-navigation/native": "^5.0.8",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-calendar-strip": "^1.4.1",
+    "react-native-draggable-flatlist": "^2.3.0",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "^1.6.0",
+    "react-native-reanimated": "^1.7.0",
+    "react-native-safe-area-context": "^0.6.4",
+    "react-native-screens": "^2.0.0-beta.10",
+    "react-native-sqlite-storage": "^4.1.0",
+    "react-native-tab-view": "^2.13.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^2.0.15",
+    "react-redux": "^7.2.0",
+    "realm": "^4.0.0-beta.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/runtime": "^7.8.3",
+    "@react-native-community/eslint-config": "^0.0.6",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.8.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.4",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
