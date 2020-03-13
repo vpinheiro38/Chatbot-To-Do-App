@@ -4,6 +4,8 @@
 
 A React Native app that implements a simple chatbot to manage a to-do list. (Developed to Android)
 
+<img src="https://github.com/vpinheiro38/Chatbot-To-Do-App/blob/master/images/Chat.jpeg" width="250" /> <img src="https://github.com/vpinheiro38/Chatbot-To-Do-App/blob/master/images/TaskList.jpeg" width="250" />
+
 ## Installation
 1. First of all, clone this repository.
 2. Then, enter the following command in the project root directory:
